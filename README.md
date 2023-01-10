@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RickyUomo
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React, Redux and DSA
 - 💞️ I’m looking to collaborate on web application project
 - 📫 How to reach me rickykuo925@gmail.com
